@@ -1,4 +1,4 @@
-import React, {useState} from "../../_snowpack/pkg/react.js";
+import React, {useState} from "../../_snowpack/pkg/react";
 const Form = ({handleSubmit, history}) => {
   const [searchEntry, setSearchEntry] = useState("");
   const updateSearchInput = (e) => {

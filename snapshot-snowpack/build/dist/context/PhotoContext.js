@@ -1,5 +1,5 @@
-import React, {createContext, useState} from "../../_snowpack/pkg/react.js";
-import axios from "../../_snowpack/pkg/axios.js";
+import React, {createContext, useState} from "../../_snowpack/pkg/react";
+import axios from "../../_snowpack/pkg/axios";
 import {apiKey} from "../api/config.js";
 export const PhotoContext = createContext();
 const PhotoContextProvider = (props) => {

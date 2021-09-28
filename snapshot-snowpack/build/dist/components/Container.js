@@ -1,4 +1,4 @@
-import React, {useContext, useEffect} from "../../_snowpack/pkg/react.js";
+import React, {useContext, useEffect} from "../../_snowpack/pkg/react";
 import {PhotoContext} from "../context/PhotoContext.js";
 import Gallery from "./Gallery.js";
 import Loader from "./Loader.js";

@@ -1,5 +1,5 @@
-import React from "../../_snowpack/pkg/react.js";
-import {NavLink} from "../../_snowpack/pkg/react-router-dom.js";
+import React from "../../_snowpack/pkg/react";
+import {NavLink} from "../../_snowpack/pkg/react-router-dom";
 const Navigation = () => {
   return /* @__PURE__ */ React.createElement("nav", {
     className: "main-nav"

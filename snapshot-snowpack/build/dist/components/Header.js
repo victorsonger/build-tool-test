@@ -1,4 +1,4 @@
-import React from "../../_snowpack/pkg/react.js";
+import React from "../../_snowpack/pkg/react";
 import Form from "./Form.js";
 import Navigation from "./Navigation.js";
 const Header = ({history, handleSubmit}) => {

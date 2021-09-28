@@ -1,6 +1,6 @@
-import React, {Component} from "../_snowpack/pkg/react.js";
+import React, {Component} from "../_snowpack/pkg/react";
 import PhotoContextProvider from "./context/PhotoContext.js";
-import {HashRouter, Route, Switch, Redirect} from "../_snowpack/pkg/react-router-dom.js";
+import {HashRouter, Route, Switch, Redirect} from "../_snowpack/pkg/react-router-dom";
 import Header from "./components/Header.js";
 import Item from "./components/Item.js";
 import Search from "./components/Search.js";

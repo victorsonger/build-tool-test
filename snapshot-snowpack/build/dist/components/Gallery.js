@@ -1,4 +1,4 @@
-import React from "../../_snowpack/pkg/react.js";
+import React from "../../_snowpack/pkg/react";
 import NoImages from "./NoImages.js";
 import Image from "./Image.js";
 const Gallery = (props) => {
