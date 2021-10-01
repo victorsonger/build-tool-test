@@ -53,7 +53,7 @@ export function register(config) {
     });
   }
 }
-
+// 测试
 function registerValidSW(swUrl, config) {
   navigator.serviceWorker
     .register(swUrl)

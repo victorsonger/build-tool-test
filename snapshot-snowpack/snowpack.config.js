@@ -6,5 +6,9 @@ module.exports = {
   packageOptions: {
     origin: 'https://pkg.snowpack.dev',
     source: 'remote',
+    namedExports: [
+      'react',
+      'react-dom'
+    ]
   },
 };
